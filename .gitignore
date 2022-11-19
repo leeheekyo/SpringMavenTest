@@ -1,0 +1,18 @@
+# gradle project
+.gradle
+gadle/
+gradlew
+gradlew.bat
+
+# eclipse
+.project
+.setting
+
+# build result files
+bin/
+target/
+
+# etc
+.classpath
+HELP.md
+
