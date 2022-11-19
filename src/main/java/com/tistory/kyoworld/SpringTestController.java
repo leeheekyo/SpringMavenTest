@@ -1,4 +1,4 @@
-package com.naver.blog.kyoworld;
+package com.tistory.kyoworld;
 
 import org.springframework.lang.Nullable;
 import org.springframework.stereotype.Controller;

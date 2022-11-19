@@ -1,9 +1,9 @@
-package com.naver.blog.kyoworld;
+package com.tistory.kyoworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-// add comment 2
+// add comment
 @SpringBootApplication
 public class SpringTestApplication {
 
